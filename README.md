@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="https://images-platform.99static.com/VhAY_rEp_fvVyR3RNDp3hdWqjww=/1127x2240:1902x3015/500x500/top/smart/99designs-contests-attachments/111/111597/attachment_111597410" alt="logo" width="140"  height="auto" />
+  <img src="https://github.com/microverseinc/readme-template/blob/e6bb90ae016bd5026a5b26a4e68d057046db7105/murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
 </div>
