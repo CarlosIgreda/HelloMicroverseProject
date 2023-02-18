@@ -64,7 +64,7 @@ In this project, I will set up a "Hello world" repository. No complex coding is 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://carlosigreda.github.io/project1)
+- [Live Demo Link](https://carlosigreda.github.io)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
